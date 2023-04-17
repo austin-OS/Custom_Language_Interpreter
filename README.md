@@ -1,4 +1,4 @@
-# Custom_Language_Interpreter
+# Java Custom Language Interpreter
 A Java program which interprets and executes text files written in a custom programming language.
 
 ## Compiling:
